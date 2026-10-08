@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+.venv
+.venv/
+env/
+venv/
+ENV/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
